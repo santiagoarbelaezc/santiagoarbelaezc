@@ -1,8 +1,8 @@
-<h1 align="center">Santiago Arbelaez Contreras</h1>
+<h1 align="left">Santiago Arbelaez Contreras</h1>
 
 ###
 
-<h2 align="center">Junior Full Stack Developer | Systems Engineering Student  |  University of Quindío</h2>
+<h2 align="left">Junior Full Stack Developer | Systems Engineering Student  |  University of Quindío</h2>
 
 ###
 
@@ -10,15 +10,11 @@
 
 ###
 
-<p align="left">Freelancer Services (since 2023):<br><br>E-commerce platforms with payment & product management<br><br>Modern, high-converting landing pages (SEO optimized)<br><br>Process automation scripts & systems<br><br>Application deployment & cloud server maintenance</p>
+<h2 align="left">Stack</h2>
 
 ###
 
-<h2 align="center">Stack</h2>
-
-###
-
-<h3 align="center">Frontend</h3>
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -36,7 +32,7 @@
 
 ###
 
-<h3 align="center">Backend</h3>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -54,7 +50,7 @@
 
 ###
 
-<h3 align="center">Database</h3>
+<h3 align="left">Database</h3>
 
 ###
 
@@ -70,7 +66,7 @@
 
 ###
 
-<h3 align="center">Cloud & DevOps</h3>
+<h3 align="left">Cloud & DevOps</h3>
 
 ###
 
@@ -84,19 +80,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
 </div>
 
-##### Hi there 👋
-
-<!--
-**santiagoarbelaezc/santiagoarbelaezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
