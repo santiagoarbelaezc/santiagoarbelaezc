@@ -84,46 +84,6 @@
   <img src="https://skillicons.dev/icons?i=aws,firebase,docker" />
 </div>
 
----
-
-## 💼 Freelance Services (Since 2023)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        🛒<br><b>E-commerce Platforms</b><br>Full stores with payment & product management
-      </td>
-      <td align="center" width="200">
-        🎯<br><b>Landing Pages</b><br>Modern, SEO-optimized & high-converting
-      </td>
-      <td align="center" width="200">
-        ⚙️<br><b>Automation Scripts</b><br>Process automation & productivity boost
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        ☁️<br><b>App Deployment</b><br>Cloud deployment & server maintenance
-      </td>
-      <td align="center" width="200">
-        📱<br><b>Responsive Design</b><br>Modern, accessible interfaces for all devices
-      </td>
-      <td align="center" width="200">
-        🚀<br><b>Full Solutions</b><br>End-to-end business digitalization
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiagoarbelaezc&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoarbelaezc&layout=compact&theme=radical&hide_border=true)
-  
-</div>
 
 ---
 
