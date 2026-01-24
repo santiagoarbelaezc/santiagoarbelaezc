@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="300" src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git.jpg"  />
+</div>
+
 <h1 align="center">Santiago Arbelaez Contreras</h1>
 
 <h3 align="center">Junior Full Stack Developer | Systems Engineering Student | University of Quindío</h3>
