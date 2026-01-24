@@ -2,6 +2,17 @@
   <img height="300" src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git.jpg"  />
 </div>
 
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=blue&style=flat-square" />
+  
+  ✉️ **Contact:** [arbelaezz.c11@gmail.com](mailto:arbelaezz.c11@gmail.com)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portfolio-santiagoa.web.app/portfolio)
+  
+</div>
+
 <h1 align="center">Santiago Arbelaez Contreras</h1>
 
 <h3 align="center">Junior Full Stack Developer | Systems Engineering Student | University of Quindío</h3>
@@ -15,16 +26,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
 </div>
 
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=blue&style=flat-square" />
-  
-  ✉️ **Contact:** [arbelaezz.c11@gmail.com](mailto:arbelaezz.c11@gmail.com)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portfolio-santiagoa.web.app/portfolio)
-  
-</div>
 
 ---
 
