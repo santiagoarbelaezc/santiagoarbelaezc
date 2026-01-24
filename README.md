@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git.jpg"  />
-</div>
-
 <h1 align="center">Santiago Arbelaez Contreras</h1>
 
 <h3 align="center">Junior Full Stack Developer | Systems Engineering Student | University of Quindío</h3>
@@ -20,7 +16,16 @@
 ## 🔧 Tech Stack
 
 ### **Frontend**
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</div>
 
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,css,html" />
@@ -75,7 +80,6 @@
   <img src="https://skillicons.dev/icons?i=aws,firebase,docker" />
 </div>
 
-
 ---
 
 <div align="center">
@@ -84,27 +88,8 @@
   
   ✉️ **Contact:** [arbelaezz.c11@gmail.com](mailto:arbelaezz.c11@gmail.com)
   
-  <br>
-  
-  <!-- Botón LinkedIn -->
-  <a href="https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <!-- Botón Portfolio RESALTADO -->
-  <a href="https://portfolio-santiagoa.web.app/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/✨_Portfolio-6C63FF?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=6C63FF&color=6C63FF" alt="Portfolio" />
-  </a>
-  
-  <!-- Botón GitHub -->
-  <a href="https://github.com/santiagoarbelaezc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <!-- Botón Email -->
-  <a href="mailto:arbelaezz.c11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portfolio-santiagoa.web.app/portfolio)
   
 </div>
 
