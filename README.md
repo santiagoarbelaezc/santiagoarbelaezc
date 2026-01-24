@@ -2,6 +2,8 @@
   <img height="300" src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git.jpg"  />
 </div>
 
+---
+
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=blue&style=flat-square" />
