@@ -93,8 +93,27 @@
   
   ✉️ **Contact:** [arbelaezz.c11@gmail.com](mailto:arbelaezz.c11@gmail.com)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portfolio-santiagoa.web.app/portfolio)
+  <br>
+  
+  <!-- Botón LinkedIn con mejor diseño -->
+  <a href="https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" />
+  </a>
+  
+  <!-- Botón Portfolio con mejor diseño -->
+  <a href="https://portfolio-santiagoa.web.app/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Portfolio" />
+  </a>
+  
+  <!-- Botón adicional para GitHub -->
+  <a href="https://github.com/santiagoarbelaezc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub" />
+  </a>
+  
+  <!-- Botón adicional para Email -->
+  <a href="mailto:arbelaezz.c11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email" />
+  </a>
   
 </div>
 
