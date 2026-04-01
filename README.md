@@ -79,7 +79,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase,docker" />
 </div>
 
 ---
