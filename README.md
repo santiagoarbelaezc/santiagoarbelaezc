@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git.jpg"  />
+  <img height="300" src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git2.jpg"  />
 </div>
 
 ---
