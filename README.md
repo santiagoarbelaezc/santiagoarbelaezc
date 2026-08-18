@@ -20,7 +20,7 @@
 <h3 align="center">Junior Full Stack Developer | Systems Engineering Student | University of Quindío</h3>
 
 <p align="center">
-  <b>🎓 10th Semester | Graduating Soon</b><br>
+  <b>🎓 11th Semester | Graduating Soon</b><br>
   Passionate about full-stack web development, UI/UX design, and building innovative solutions. Committed to continuous learning and delivering excellence in every project.
 </p>
 
@@ -35,7 +35,6 @@
 ### **Frontend**
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -45,7 +44,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,css,html" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,css,html" />
 </div>
 
 ---
@@ -54,15 +53,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,python" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,python" />
 </div>
 
 ---
