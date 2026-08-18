@@ -66,7 +66,7 @@
 
 ### **Database & Cloud**
 <div align="center">
-  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,firebase,docker" />
 </div>
 
 ---
