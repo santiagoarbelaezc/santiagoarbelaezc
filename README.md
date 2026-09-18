@@ -8,38 +8,35 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git2.jpg" alt="Santiago Arbelaez Banner" width="100%" style="max-height: 320px; object-fit: cover; border-radius: 12px;" />
 </div>
-
 <div align="center">
 
-  <!-- Contador de visitas moderno -->
-  <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br><br>
-
-  <!-- Canales de contacto y perfil -->
-  <a href="mailto:arbelaezz.c11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://santiagoarbelaez.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Sitio Web" />
-  </a>
-  <a href="https://github.com/santiagoarbelaezc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br><br>
-
-  <!-- Animación de mecanografiado dinámico (Typing SVG) -->
+  <!-- Subtítulo Dinámico (Hero Typing) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer;Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+TypeScript;Cloud+%26+Distributed+Systems;AI-Driven+Engineering+%26+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Full+Stack+Software+Engineer;%F0%9F%9B%A0%EF%B8%8F+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+TypeScript;%E2%98%81%EF%B8%8F+Cloud+Infrastructure+%26+Microservices;%F0%9F%A7%A0+AI-Driven+Engineering+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
+
+  <p align="center" style="margin-top: 8px; margin-bottom: 12px;">
+    <!-- Badges de Contacto y Perfiles -->
+    <a href="mailto:arbelaezz.c11@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://santiagoarbelaez.me/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=38BDF8" alt="Sitio Web" />
+    </a>
+    <a href="https://github.com/santiagoarbelaezc" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <!-- Contador de Visitas Integrado en la misma fila -->
+    <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=38bdf8&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  </p>
 
 </div>
 
 ---
+
 
 ### 👨‍💻 Sobre mí
 
