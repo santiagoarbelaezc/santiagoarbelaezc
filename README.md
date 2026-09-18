@@ -1,99 +1,149 @@
-<!-- Banner Superior Compacto -->
+<!-- Banner Superior -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git2.jpg" alt="Santiago Arbelaez Banner" width="100%" style="max-height: 240px; object-fit: cover; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git2.jpg" alt="Santiago Arbelaez Banner" width="100%" style="max-height: 320px; object-fit: cover; border-radius: 12px;" />
+</div>
+
+<!-- Header Dinámico con Efecto de Onda -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,30&height=120&section=header&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
 
-  <!-- Visitas & Redes Monocromáticas -->
-  <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <!-- Contador de visitas moderno -->
+  <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br><br>
+
+  <!-- Canales de contacto y perfil -->
   <a href="mailto:arbelaezz.c11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://santiagoarbelaez.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Sitio Web" />
   </a>
   <a href="https://github.com/santiagoarbelaezc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <!-- Typing SVG Monocromático & Compacto -->
+  <br><br>
+
+  <!-- Animación de mecanografiado dinámico (Typing SVG) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=560&lines=Full+Stack+Software+Engineer;Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+TypeScript;Cloud+Infrastructure+%26+Microservices;AI-Augmented+Engineering+%26+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer;Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+TypeScript;Cloud+%26+Distributed+Systems;AI-Driven+Engineering+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 💻 Perfil Profesional
+### 👨‍💻 Sobre mí
 
-Ingeniero de Sistemas en fase de culminación (**11.° semestre**) por la **Universidad del Quindío**, orientado al **desarrollo full-stack escalable, arquitectura de software e integración de flujos asistidos por IA**.
+Ingeniero de Sistemas en etapa de culminación (**11.° semestre — Grado próximo**) por la **Universidad del Quindío**, enfocado en el **desarrollo full-stack, arquitectura de software y computación en la nube**.
 
-- **Arquitectura & APIs:** Construcción de microservicios y APIs RESTful eficientes aplicando patrones de diseño, principios SOLID y modularidad.
-- **Frontend Reactivo:** Desarrollo de interfaces SPA modernas y orientadas a componentes bajo TypeScript y Angular.
-- **AI-Augmented Workflow:** Uso estratégico de LLMs para auditoría de código, testing automatizado, optimización algorítmica y aceleración técnica.
-- **Cultura Ágil:** Gestión técnica de proyectos y seguimiento de sprint mediante Jira y flujos de trabajo basados en Git.
-
----
-
-### 🛠️ Core Stack & Tools
-
-#### 🌐 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### ⚙️ Backend & Architecture
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-#### ☁️ Cloud, Data & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
-
-#### 🧠 AI & Engineering Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- 🔭 **Enfoque técnico:** Diseño e implementación de arquitecturas desacopladas, microservicios RESTful de alto rendimiento y clientes web SPA modulares y reactivos.
+- ⚡ **Buenas prácticas:** Énfasis en Clean Architecture, principios SOLID, patrones de diseño, optimización de consultas SQL y flujos de integración/entrega continua.
+- 🤖 **AI-Augmented Engineering:** Integración avanzada de modelos fundacionales (LLMs) y herramientas inteligentes en el ciclo de vida del software para acelerar prototipado, auditoría de código, benchmarking y refactorización.
+- 🎯 **Metodologías:** Trabajo colaborativo bajo metodologías ágiles (Scrum/Kanban) con gestión de ciclo de vida del producto en Jira y GitHub Projects.
 
 ---
 
-### 📊 Performance & Contributions
+## 🛠️ Stack Tecnológico
+
+<br>
+
+### 🌐 Frontend Engineering
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend Icons" />
+</div>
+
+---
+
+### ⚙️ Backend & Architecture
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,python" alt="Backend Icons" />
+</div>
+
+---
+
+### ☁️ Cloud, Databases & Infrastructure
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,mysql,firebase" alt="Cloud and DB Icons" />
+</div>
+
+---
+
+### 🧠 AI Tools & Agile Project Management
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,postman" alt="Dev Tools Icons" />
+</div>
+
+---
+
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=santiagoarbelaezc&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=94a3b8&icon_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=santiagoarbelaezc&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Santiago's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoarbelaezc&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=94a3b8&bg_color=000000" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoarbelaezc&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagoarbelaezc&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+  <br>
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagoarbelaezc&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
+<br>
+
+<!-- Footer Dinámico -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,30&height=90&section=footer&animation=fadeIn" width="100%" />
 </div>
