@@ -122,16 +122,6 @@ A lo largo de mi formación he desarrollado proyectos personales y académicos o
 ### GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=santiagoarbelaezc&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Santiago's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoarbelaezc&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
   <br>
 
