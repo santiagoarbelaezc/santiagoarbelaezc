@@ -5,6 +5,8 @@
   <img src="https://raw.githubusercontent.com/santiagoarbelaezc/santiagoarbelaezc/refs/heads/main/banner-git2.jpg" alt="Santiago Arbelaez Banner" width="100%" style="max-height: 320px; object-fit: cover; border-radius: 12px;" />
 </div>
 
+---
+
 <!-- Header Dinámico con Efecto de Onda -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,30&height=120&section=header&animation=fadeIn" width="100%" />
