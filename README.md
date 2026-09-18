@@ -38,7 +38,7 @@
 ---
 
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
 Soy estudiante de **Ingeniería de Sistemas y Computación de último semestre** en la **Universidad del Quindío** y actualmente me desempeño como **Software Developer en Sysmicon**.
 
@@ -49,11 +49,11 @@ A lo largo de mi formación he desarrollado proyectos personales y académicos o
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <br>
 
-### 🌐 Frontend Engineering
+### Frontend Engineering
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -70,7 +70,7 @@ A lo largo de mi formación he desarrollado proyectos personales y académicos o
 
 ---
 
-### ⚙️ Backend & Architecture
+### Backend & Architecture
 <div align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -102,7 +102,7 @@ A lo largo de mi formación he desarrollado proyectos personales y académicos o
 
 ---
 
-### 🧠 AI Tools & Agile Project Management
+### AI Tools & Agile Project Management
 <div align="center">
   <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
@@ -119,7 +119,7 @@ A lo largo de mi formación he desarrollado proyectos personales y académicos o
 
 ---
 
-### 📈 GitHub Analytics & Activity
+### GitHub Analytics & Activity
 
 <div align="center">
   <table border="0">
