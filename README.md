@@ -11,7 +11,7 @@
   ✉️ **Contact:** [arbelaezz.c11@gmail.com](mailto:arbelaezz.c11@gmail.com)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-arbelaez-contreras-9830b5290/)
-  [![SitioWeb](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://santiagoarbelaez.me/)
+  [![SitioWeb](https://img.shields.io/badge/SitioWeb-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://santiagoarbelaez.me/)
   
 </div>
 
