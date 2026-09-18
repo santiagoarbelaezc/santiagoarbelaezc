@@ -40,12 +40,12 @@
 
 ### 👨‍💻 Sobre mí
 
-Ingeniero de Sistemas en etapa de culminación (**11.° semestre — Grado próximo**) por la **Universidad del Quindío**, enfocado en el **desarrollo full-stack, arquitectura de software y computación en la nube**.
+Soy estudiante de **Ingeniería de Sistemas y Computación de último semestre** en la **Universidad del Quindío** y actualmente me desempeño como **Software Developer en Sysmicon**.
 
-- 🔭 **Enfoque técnico:** Diseño e implementación de arquitecturas desacopladas, microservicios RESTful de alto rendimiento y clientes web SPA modulares y reactivos.
-- ⚡ **Buenas prácticas:** Énfasis en Clean Architecture, principios SOLID, patrones de diseño, optimización de consultas SQL y flujos de integración/entrega continua.
-- 🤖 **AI-Augmented Engineering:** Integración avanzada de modelos fundacionales (LLMs) y herramientas inteligentes en el ciclo de vida del software para acelerar prototipado, auditoría de código, benchmarking y refactorización.
-- 🎯 **Metodologías:** Trabajo colaborativo bajo metodologías ágiles (Scrum/Kanban) con gestión de ciclo de vida del producto en Jira y GitHub Projects.
+Cuento con sólidos conocimientos en **Spring Boot, Angular, TypeScript, Python, Node.js y CSS**, además de gestión y modelado de bases de datos relacionales con **MySQL**. 
+
+A lo largo de mi formación he desarrollado proyectos personales y académicos orientados a dominar nuevas tecnologías, construir soluciones funcionales y culminar mi carrera universitaria de manera íntegra. Me caracterizo por mi capacidad de aprendizaje autodirigido, constante curiosidad tecnológica y un firme compromiso con la mejora continua en cada reto que asumo.
+
 
 ---
 
