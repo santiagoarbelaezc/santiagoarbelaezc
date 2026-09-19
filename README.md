@@ -1,4 +1,3 @@
----
 
 <!-- Banner Superior -->
 <div align="center">
