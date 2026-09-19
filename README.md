@@ -135,6 +135,8 @@ A lo largo de mi formación he desarrollado proyectos personales y académicos o
 
 <br>
 
+---
+
 <!-- Footer Dinámico -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,30&height=90&section=footer&animation=fadeIn" width="100%" />
