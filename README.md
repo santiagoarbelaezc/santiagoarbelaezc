@@ -49,14 +49,14 @@ Specialized in full-stack development with **Spring Boot, Angular, Python, and N
 
 ## Tech Stack
 
-### AI, Machine Learning & Data Science
+### AI, Machine Learning & Data Science — Python - TensorFlow - PyTorch - OpenCV - Scikit-Learn - Pandas - NumPy - Jupyter
 <div align="center">
   <img src="./assets/ai-icons.svg" alt="AI, Machine Learning & Data Science" />
 </div>
 
 ---
 
-### Frontend Development
+### Frontend Development — Angular - TypeScript - JavaScript - HTML5 - CSS3
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend Development" />
@@ -65,7 +65,7 @@ Specialized in full-stack development with **Spring Boot, Angular, Python, and N
 
 ---
 
-### Backend & Databases
+### Backend & Databases — Spring Boot - Node.js - Python - PostgreSQL - MySQL
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,py,postgres,mysql" alt="Backend & Databases" />
@@ -74,7 +74,7 @@ Specialized in full-stack development with **Spring Boot, Angular, Python, and N
 
 ---
 
-### DevOps & Cloud Infrastructure
+### DevOps & Cloud Infrastructure — Docker - AWS - Git - GitHub Actions - Linux
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,linux" alt="DevOps & Cloud Infrastructure" />
@@ -83,7 +83,7 @@ Specialized in full-stack development with **Spring Boot, Angular, Python, and N
 
 ---
 
-### Tools & Productivity
+### Tools & Productivity — VS Code - Postman - GitHub - Jira
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,postman,github,jira" alt="Tools & Productivity" />
