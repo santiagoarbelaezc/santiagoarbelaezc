@@ -102,13 +102,41 @@ Specialized in full-stack development with **Spring Boot, Angular, Python, and N
 
 ---
 
-### GitHub Streak & Activity
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagoarbelaezc&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Analytics & Activity
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Timezone-America%2FBogota%20(UTC--5)-38bdf8?style=flat-square&logo=clockify&logoColor=white" alt="Timezone: Colombia" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Contributions-2.2k%2B%20Commits-10b981?style=flat-square&logo=git&logoColor=white" alt="Contributions" />
+</p>
+
+<div align="center">
+
+  <!-- Primary Metrics: General Stats & Streak Stats with Colombia Timezone -->
+  <p align="center">
+    <a href="https://github.com/santiagoarbelaezc" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=santiagoarbelaezc&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged&hide=issues,reviews&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8" height="192" alt="Santiago's GitHub Stats" />
+    </a>
+    <a href="https://github.com/santiagoarbelaezc" target="_blank">
+      <img src="https://streak-stats.demolab.com/?user=santiagoarbelaezc&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=38bdf8&sideLabels=94a3b8&sideNums=f8fafc&dates=64748b&timezone=America/Bogota" height="192" alt="Santiago's GitHub Streak (Colombia Timezone)" />
+    </a>
+  </p>
+
+  <!-- Most Used Languages Card -->
+  <p align="center">
+    <a href="https://github.com/santiagoarbelaezc" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoarbelaezc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&langs_count=8" height="192" alt="Most Used Languages" />
+    </a>
+  </p>
+
+  <!-- Yearly Contribution Activity Timeline -->
+  <p align="center">
+    <a href="https://github.com/santiagoarbelaezc" target="_blank">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santiagoarbelaezc&theme=tokyonight" width="100%" style="max-width: 850px;" alt="Santiago's Contribution Activity Graph" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
