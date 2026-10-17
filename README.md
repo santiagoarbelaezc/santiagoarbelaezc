@@ -31,8 +31,6 @@
     <a href="https://github.com/santiagoarbelaezc" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <!-- Profile Views Counter -->
-    <img src="https://komarev.com/ghpvc/?username=santiagoarbelaezc&color=38bdf8&style=for-the-badge&label=VIEWS" alt="Profile Views" />
   </p>
 
 </div>
