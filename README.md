@@ -112,23 +112,6 @@ Specialized in full-stack development with **Spring Boot, Angular, Python, and N
 
 <div align="center">
 
-  <!-- Primary Metrics: General Stats & Streak Stats with Colombia Timezone -->
-  <p align="center">
-    <a href="https://github.com/santiagoarbelaezc" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=santiagoarbelaezc&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged&hide=issues,reviews&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8" height="192" alt="Santiago's GitHub Stats" />
-    </a>
-    <a href="https://github.com/santiagoarbelaezc" target="_blank">
-      <img src="https://streak-stats.demolab.com/?user=santiagoarbelaezc&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=38bdf8&sideLabels=94a3b8&sideNums=f8fafc&dates=64748b&timezone=America/Bogota" height="192" alt="Santiago's GitHub Streak (Colombia Timezone)" />
-    </a>
-  </p>
-
-  <!-- Most Used Languages Card -->
-  <p align="center">
-    <a href="https://github.com/santiagoarbelaezc" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoarbelaezc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&langs_count=8" height="192" alt="Most Used Languages" />
-    </a>
-  </p>
-
   <!-- Yearly Contribution Activity Timeline -->
   <p align="center">
     <a href="https://github.com/santiagoarbelaezc" target="_blank">
