@@ -102,7 +102,7 @@ Specialized in full-stack development with **Spring Boot, Angular, Python, and N
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## GitHub Analytics & Activity
 
 <p align="center">
   <img src="https://img.shields.io/badge/Timezone-America%2FBogota%20(UTC--5)-38bdf8?style=flat-square&logo=clockify&logoColor=white" alt="Timezone: Colombia" />
